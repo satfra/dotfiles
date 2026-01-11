@@ -1,3 +1,4 @@
 {
-	"window.titleBarStyle": "custom"
+	"window.titleBarStyle": "custom",
+	"workbench.colorTheme": "NoctaliaTheme"
 }
