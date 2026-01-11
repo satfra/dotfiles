@@ -1,0 +1,8 @@
+"ui.background" = "back"
+"ui.text" = "text"
+"ui.selection" = "text"
+
+[palette]
+back = "#11111100"
+text = "#11111111"
+
