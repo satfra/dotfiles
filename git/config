@@ -1,3 +1,9 @@
 [user]
 	email = "fsattler@physik.uni-bielefeld.de"
 	name = "Franz R. Sattler"
+[credential "https://github.com"]
+	helper = 
+	helper = !/etc/profiles/per-user/franz/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/etc/profiles/per-user/franz/bin/gh auth git-credential
