@@ -1,8 +1,8 @@
 theme = "sonokai_default"
 
 [editor]
-line-number = "relative"
-mouse = false
+line-number = "absolute"
+mouse = true
 
 [editor.cursor-shape]
 insert = "bar"

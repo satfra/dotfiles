@@ -1,0 +1,7 @@
+"ui.background" = "white"
+"ui.text" = "black"
+
+[palette]
+back = "{{colors.surface.default.hex}};"
+black = "#000000"
+

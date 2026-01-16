@@ -1,0 +1,7 @@
+[config]
+
+# Theme helix editor
+[templates.helix]
+input_path = "~/.config/noctalia/templates/helix.toml"
+output_path = "~/.config/helix/themes/noctalia.toml"
+post_hook = "echo 'helix theme updated'"
